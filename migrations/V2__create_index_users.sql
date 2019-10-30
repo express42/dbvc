@@ -1,0 +1,1 @@
+CREATE INDEX users_birth_year_idx ON users (birth_year);

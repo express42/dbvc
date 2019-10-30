@@ -1,0 +1,1 @@
+INSERT INTO users(first_name, last_name, birth_year) VALUES('Default', 'Manager', 1970);
