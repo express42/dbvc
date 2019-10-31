@@ -1,0 +1,1 @@
+CREATE INDEX projects_id_leader_idx ON projects(project_id, project_leader);
